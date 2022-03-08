@@ -1,0 +1,9 @@
+.header {
+  background-image: url(./home-images/dev-chick-banner.jpg);
+  height: 1000px;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
